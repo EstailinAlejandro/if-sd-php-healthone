@@ -17,7 +17,7 @@ print_r($request);
 $title = "HealthOne";
 $titleSuffix = "";
 
-//$params[1] is de action
+//$params[1] is de actionn
 //$params[2] is een extra getal die de action nodig heeft om zijn taak uit te voeren
 switch ($params[1]) {
 
